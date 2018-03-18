@@ -1,0 +1,9 @@
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\bin\Release\QWCServer.exe.config
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\bin\Release\QWCServer.exe
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\bin\Release\QWCServer.pdb
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Release\QWCServer.Form1.resources
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Release\QWCServer.Properties.Resources.resources
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Release\QWCServer.csproj.GenerateResource.Cache
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Release\QWCServer.csproj.CoreCompileInputs.cache
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Release\QWCServer.exe
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Release\QWCServer.pdb

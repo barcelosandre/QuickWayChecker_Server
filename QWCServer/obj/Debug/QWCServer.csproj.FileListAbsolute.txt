@@ -1,0 +1,20 @@
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Debug\QWCServer.Form1.resources
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Debug\QWCServer.Properties.Resources.resources
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Debug\QWCServer.csproj.GenerateResource.Cache
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Debug\QWCServer.csproj.CoreCompileInputs.cache
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\bin\Debug\QWCServer.exe.config
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\bin\Debug\QWCServer.exe
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\bin\Debug\QWCServer.pdb
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Debug\QWCServer.exe
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Debug\QWCServer.pdb
+D:\_EP_MIX_SUP - T.I\Quickway Itautec - Terminal Consulta Preco\IntegracaoSuperusSmartBD\QWCServer\QWCServer\obj\Debug\QWCServer.csprojResolveAssemblyReference.cache
+C:\_EP MIX SUPERMERCADOS\QWC\QWCServer\QWCServer\obj\Debug\QWCServer.Form1.resources
+C:\_EP MIX SUPERMERCADOS\QWC\QWCServer\QWCServer\obj\Debug\QWCServer.Properties.Resources.resources
+C:\_EP MIX SUPERMERCADOS\QWC\QWCServer\QWCServer\obj\Debug\QWCServer.csproj.GenerateResource.cache
+C:\_EP MIX SUPERMERCADOS\QWC\QWCServer\QWCServer\obj\Debug\QWCServer.csproj.CoreCompileInputs.cache
+C:\_EP MIX SUPERMERCADOS\QWC\QWCServer\QWCServer\bin\Debug\QWCServer.exe.config
+C:\_EP MIX SUPERMERCADOS\QWC\QWCServer\QWCServer\bin\Debug\QWCServer.exe
+C:\_EP MIX SUPERMERCADOS\QWC\QWCServer\QWCServer\bin\Debug\QWCServer.pdb
+C:\_EP MIX SUPERMERCADOS\QWC\QWCServer\QWCServer\obj\Debug\QWCServer.exe
+C:\_EP MIX SUPERMERCADOS\QWC\QWCServer\QWCServer\obj\Debug\QWCServer.pdb
+C:\_EP MIX SUPERMERCADOS\QWC\QWCServer\QWCServer\obj\Debug\QWCServer.csprojResolveAssemblyReference.cache
